@@ -66,30 +66,6 @@ react-admin system solution
     - 登录页面(包括GitHub第三方登录)
     - 404页面
 
-### 功能截图
-#### 首页
-![截图](https://raw.githubusercontent.com/yezihaohao/yezihaohao.github.io/master/imgs/rd1.gif)
-#### 按钮图标等
-![截图](https://raw.githubusercontent.com/yezihaohao/yezihaohao.github.io/master/imgs/rd2.gif)
-#### 轮播图
-![截图](https://raw.githubusercontent.com/yezihaohao/yezihaohao.github.io/master/imgs/rd3.gif)
-#### 富文本
-![截图](https://raw.githubusercontent.com/yezihaohao/yezihaohao.github.io/master/imgs/rd4.gif)
-#### 拖拽
-![截图](https://raw.githubusercontent.com/yezihaohao/yezihaohao.github.io/master/imgs/rd5.gif)
-#### 画廊
-![截图](https://raw.githubusercontent.com/yezihaohao/yezihaohao.github.io/master/imgs/rd6.gif)
-#### 动画
-![截图](https://raw.githubusercontent.com/yezihaohao/yezihaohao.github.io/master/imgs/rd7.gif)
-#### 表格
-![截图](https://raw.githubusercontent.com/yezihaohao/yezihaohao.github.io/master/imgs/rd8.gif)
-#### 表单
-![截图](https://raw.githubusercontent.com/yezihaohao/yezihaohao.github.io/master/imgs/rd9.gif)
-#### 图表
-![截图](https://raw.githubusercontent.com/yezihaohao/yezihaohao.github.io/master/imgs/rd10.gif)
-#### 页面
-![截图](https://raw.githubusercontent.com/yezihaohao/yezihaohao.github.io/master/imgs/rd11.gif)
-
 ### 代码目录
 ```js
 +-- build/                                  ---打包的文件目录
@@ -179,12 +155,3 @@ npm run build
 #### 2017-09-13
 - 依赖包版本升级
     - antd@2.13.1(目前最新版)
-
-### 结尾
-该项目会不定时更新，后续时间会添加更多的模块
-
-欢迎和感谢大家PR~~👏👏
-
-若有问题，可加QQ群264591039与我交流
-
-如果对你有帮助，给个star哟~~❤️❤️❤️❤️
